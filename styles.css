@@ -1,0 +1,120 @@
+body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    margin-bottom: 0px;
+}
+
+#header-nav {
+    background-color: #868584;
+    border-radius: 0;
+    border: 0;
+    position: absolute;
+    top: 0;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #ffffff;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-brand {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 2.0em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.nav-link {
+    background-color: #868584;
+}
+
+#nav-list {
+    background-color: #868584;
+}
+
+#nav-list a {
+    text-align: center;
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #000000;
+    font-size: 1.5em;
+    background-color: #ffffff;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+#navbar-bttn {
+    margin-bottom: 5%;
+}
+#navbar-bttn:hover {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+#navbar-bttn:active {
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+#main-content {
+    width: 92%;
+    margin-bottom: 30px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}
+
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #868584;
+    margin-bottom: 60px;
+    box-shadow: 0 0 80px #2d2d2d;
+    color: white;
+    font-size: 1.2rem;
+}
+
